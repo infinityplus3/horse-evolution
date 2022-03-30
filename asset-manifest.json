@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/horse-evolution/static/css/main.e6c13ad2.css",
+    "main.js": "/horse-evolution/static/js/main.a52406ba.js",
+    "static/media/hyrachotherium.jpeg": "/horse-evolution/static/media/hyrachotherium.62d961021753eb7eb3b0.jpeg",
+    "static/media/equus.jpeg": "/horse-evolution/static/media/equus.86b1b6b3a8de477790cb.jpeg",
+    "static/media/pliohippus.jpeg": "/horse-evolution/static/media/pliohippus.f274693d813db8a34bcb.jpeg",
+    "static/media/mesohippus.jpeg": "/horse-evolution/static/media/mesohippus.2281b496ec1109e34193.jpeg",
+    "static/media/merychippus.jpeg": "/horse-evolution/static/media/merychippus.30eb345ce504c4ff2931.jpeg",
+    "static/media/miohippus.jpeg": "/horse-evolution/static/media/miohippus.102ba041122db4340c53.jpeg",
+    "static/media/home.jpeg": "/horse-evolution/static/media/home.c48833f20607e808dfb5.jpeg",
+    "static/media/mesohippus-bg.jpeg": "/horse-evolution/static/media/mesohippus-bg.46037801e9f862ed9cc7.jpeg",
+    "static/media/miohippus-bg.jpeg": "/horse-evolution/static/media/miohippus-bg.46037801e9f862ed9cc7.jpeg",
+    "static/media/hyrachotherium-bg.jpeg": "/horse-evolution/static/media/hyrachotherium-bg.f6f748babac921e1522d.jpeg",
+    "index.html": "/horse-evolution/index.html",
+    "main.e6c13ad2.css.map": "/horse-evolution/static/css/main.e6c13ad2.css.map",
+    "main.a52406ba.js.map": "/horse-evolution/static/js/main.a52406ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a52406ba.js"
+  ]
+}
